@@ -7,6 +7,10 @@
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandilene&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<p align="center">
+  <img src="github-metrics.svg" alt="Estatísticas Dinâmicas do Chandilene" />
+</p>
+
 ### Ferramentas e Tecnologias
 <div>
    <img align="center" alt="chandi-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
