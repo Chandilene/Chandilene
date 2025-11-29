@@ -6,13 +6,6 @@
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Chandilene&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandilene&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-    
-<div align="center">
-  <a href="https://github.com/Chandilene">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chandilene&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Chandilene" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandilene&layout=compact&langs_count=7&theme=dracula" alt="Principais Linguagens do Chandilene" />
-</div>
 
 ### Ferramentas e Tecnologias
 <div>
