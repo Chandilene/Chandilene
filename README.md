@@ -1,5 +1,5 @@
 ## Olá 👋 Eu sou a Chandilene 
-- 📚📚 Estudante de *Sistemas de Informação*
+- 📚📚 Estudante de *Análise e Desenvolvimento de Sistemas*
 
 <div align="center">
   <a href="https://github.com/Chandilene">
