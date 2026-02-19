@@ -1,15 +1,15 @@
 ## Olá 👋 Eu sou a Chandilene 
 - 📚📚 Estudante de *Análise e Desenvolvimento de Sistemas*
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Chandilene">
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Chandilene&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandilene&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="github-metrics.svg" alt="Estatísticas Dinâmicas do Chandilene" />
-</p>
+</p> -->
 
 ### Ferramentas e Tecnologias
 <div>
